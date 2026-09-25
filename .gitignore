@@ -6,6 +6,5 @@ workflow/update-netbox.remote.json
 # pfSense configs (even redacted ones)
 pfsense/
 *.xml
-scan-secrets.sh
 # Local tooling
 scan-secrets.sh
